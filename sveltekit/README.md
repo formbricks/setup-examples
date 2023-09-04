@@ -1,6 +1,6 @@
-# SvelteKit Integrttion with Formbricks
+# SvelteKit Integration with Formbricks
 
-This folder is an example for integrating Formbricks with a SvelteKit application.
+This folder is an example of how to integrate Formbricks with a SvelteKit application.
 
 ## Instructions
 
