@@ -28,6 +28,7 @@ Here, you'll find a curated collection of example projects, each showcasing the 
 - [VueJs](./vuejs/README.md)
 - [NextJs App Directory](./nextjs-app/README.md)
 - [NextJs Pages Directory](./nextjs-pages/README.md)
+- [SvelteKit](./sveltekit/README.md)
 
 For a detailed guide on integrating Formbricks into your own applications, please refer to the official [Formbricks Framework Guides](https://formbricks.com/docs/getting-started/framework-guides).
 
