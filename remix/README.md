@@ -45,7 +45,7 @@ This repository is an example of how to integrate Formbricks with a Remix applic
 
 6. Edited the Formbricks Enviornment ID and API Host
 
-7. Start the React development server:
+7. Start the Remix development server:
 
    ```sh
    npm dev
