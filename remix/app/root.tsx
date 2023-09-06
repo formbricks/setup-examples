@@ -16,7 +16,7 @@ export const links: LinksFunction = () => [
 
 if (typeof window !== "undefined") {
   formbricks.init({
-    environmentId: "clm7mda0f045tjs0gwrm1a8gc",
+    environmentId: "<environment-id>",
     apiHost: "https://app.formbricks.com",
     debug: true,
   });
