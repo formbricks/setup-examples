@@ -6,7 +6,7 @@ For a comprehensive step-by-step guide to integrate Formbricks in your app, plea
 
 ## Setup Instructions we Followed
 
-1. Created a new React application:
+1. Created a new Vue application:
 
    ```sh
    npm create vue@latest
@@ -66,7 +66,7 @@ For a comprehensive step-by-step guide to integrate Formbricks in your app, plea
    })
    ```
 
-8. Started the React development server:
+8. Started the Vue development server:
 
    ```sh
    npm run dev
